@@ -620,9 +620,8 @@ Have an idea? [Open a feature request](https://github.com/Shineii86/AniTrack/iss
 
 If you find AniTrack helpful, please consider:
 
-[![⭐ Star on GitHub](https://img.shields.io/badge/⭐-Star%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shineii86/AniTrack)
-[![🍴 Fork](https://img.shields.io/badge/🍴-Fork-blue?style=for-the-badge&logo=github)](https://github.com/Shineii86/AniTrack/fork)
-[![🐦 Follow on Twitter](https://img.shields.io/badge/🐦-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/AniTrackapp)
+[![⭐ Star on GitHub](https://img.shields.io/badge/Star-black?style=for-the-badge&logo=github)](https://github.com/Shineii86/AniTrack)
+[![🍴 Fork](https://img.shields.io/badge/Fork-black?style=for-the-badge&logo=github)](https://github.com/Shineii86/AniTrack/fork)
 
 **Made with ❤️ by [Shinei Nouzen](https://github.com/Shineii86)**
 
