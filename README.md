@@ -17,7 +17,7 @@
 
 **🌟 Your ultimate companion for tracking seasonal anime releases**
 
-[🚀 Demo](-#demo) • [📱 Features](-#features) • [⚡ Quick Start](-#quick-start) • [🛠️ Installation](-#installation) • [📖 Usage](-#usage) • [🤝 Contributing](-#contributing)
+[🚀 Demo](#-demo) • [📱 Features](#-features) • [⚡ Quick Start](#-quick-start) • [🛠️ Installation](#-installation) • [📖 Usage](#-usage) • [🤝 Contributing](#-contributing)
 
 </div>
 
@@ -25,21 +25,21 @@
 
 ## 📋 Table of Contents
 
-- [🎯 About](-#about)
-- [✨ Features](-#features)
-- [🎬 Demo](-#demo)
-- [🛠️ Technologies Used](-#technologies-used)
-- [⚡ Quick Start](-#quick-start)
-- [📦 Installation](-#installation)
-- [📖 Usage Guide](-#usage-guide)
-- [🎨 Customization](-#customization)
-- [🔧 Configuration](-#configuration)
-- [📱 Responsive Design](-#responsive-design)
-- [🚀 Deployment](-#deployment)
-- [🤝 Contributing](-#contributing)
-- [📝 License](-#license)
-- [👥 Credits](-#credits)
-- [🆘 Support](-#support)
+- [🎯 About](#-about)
+- [✨ Features](#-features)
+- [🎬 Demo](#-demo)
+- [🛠️ Technologies Used](#-technologies-used)
+- [⚡ Quick Start](#-quick-start)
+- [📦 Installation](#-installation)
+- [📖 Usage Guide](#-usage-guide)
+- [🎨 Customization](#-customization)
+- [🔧 Configuration](#-configuration)
+- [📱 Responsive Design](#-responsive-design)
+- [🚀 Deployment](#-deployment)
+- [🤝 Contributing](#-contributing)
+- [📝 License](#-license)
+- [👥 Credits](#-credits)
+- [🆘 Support](#-support)
 
 ---
 
