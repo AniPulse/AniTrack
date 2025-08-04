@@ -1,8 +1,7 @@
-# 🎬 AniTrack - Seasonal Anime Tracker
-
 <div align="center">
 
-![AniTrack Logo](https://img.shields.io/badge/🎬-AniTrack-FF6B6B?style=for-the-badge&logoColor=white)
+# [AniTrack](https://github.com/AniPulse)
+
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -17,7 +16,7 @@
 
 **🌟 Your ultimate companion for tracking seasonal anime releases**
 
-[🚀 Demo](#-demo) • [📱 Features](#-features) • [⚡ Quick Start](#-quick-start) • [🛠️ Installation](#-installation) • [📖 Usage](#-usage) • [🤝 Contributing](#-contributing)
+[🚀 Demo](#-demo) • [📱 Features](#-features) • [⚡ Quick Start](#-quick-start) • [🛠️ Installation](#-installation) • [📖 Usage](#-usage-guide) • [🤝 Contributing](#-contributing)
 
 </div>
 
@@ -91,10 +90,10 @@
 > **Coming Soon**: Live demo will be available at [AniTrack-demo.netlify.app](https://AniTrack-demo.netlify.app)
 
 ### 📸 Screenshots
-- **Desktop View**: Clean grid layout with anime cards
-- **Mobile View**: Optimized single-column layout
-- **Search Results**: Real-time filtering
-- **Loading State**: Smooth loading animations
+- <s> **Desktop View**: Clean grid layout with anime cards </s>
+- <s> **Mobile View**: Optimized single-column layout </s>
+- <s> **Search Results**: Real-time filtering </s>
+- <s> **Loading State**: Smooth loading animations </s>
 
 ---
 
@@ -122,23 +121,28 @@
 
 Get AniTrack running in less than 2 minutes!
 
+### 1️⃣ Clone the repository
+
 ```
-# 1️⃣ Clone the repository
 git clone https://github.com/Shineii86/AniTrack.git
 cd AniTrack
-
-# 2️⃣ Open in browser
-# Option A: Use Live Server (VS Code)
-# Install Live Server extension and right-click index.html
-
-# Option B: Use Python (if installed)
-python -m http.server 8000
-
-# Option C: Use Node.js (if installed)
-npx serve .
-
-# 3️⃣ Visit http://localhost:8000
 ```
+
+### 2️⃣ Open in browser
+##### Option A: Use Live Server (VS Code)
+##### Install Live Server extension and right-click `index.html`
+
+#### Option B: Use Python (if installed)
+```
+python -m http.server 8000
+```
+
+#### Option C: Use Node.js (if installed)
+```
+npx serve
+```
+
+### 3️⃣ Visit `http://localhost:8000`
 
 **🎉 That's it! AniTrack should now be running.**
 
@@ -179,7 +183,7 @@ cd AniTrack
 ### 📁 Project Structure
 ```
 AniTrack/
-├── 📄 index.html          # Main HTML file
+├── 📄 index.html         # Main HTML file
 ├── 🖼️ assets/            # Images and media
 ├── 📚 docs/              # Documentation
 ├── 📝 README.md          # This file
