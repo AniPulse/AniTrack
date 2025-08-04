@@ -611,28 +611,6 @@ Have an idea? [Open a feature request](https://github.com/Shineii86/AniTrack/iss
 
 #### ❓ Questions
 - 💬 [GitHub Discussions](https://github.com/Shineii86/AniTrack/discussions) - Community Q&A
-- 📧 Email: support@AniTrack.dev
-- 🐦 Twitter: [@AniTrackApp](https://twitter.com/AniTrackapp)
-
-### 📖 Resources
-
-#### Documentation
-- 📚 [User Guide](docs/user-guide.md)
-- 🔧 [API Documentation](docs/api.md)
-- 🎨 [Design System](docs/design-system.md)
-- 🚀 [Deployment Guide](docs/deployment.md)
-
-#### Community
-- 💬 [Discord Server](https://discord.gg/AniTrack) - Chat with the community
-- 🎮 [Reddit Community](https://reddit.com/r/AniTrack) - Discussions and updates
-- 📱 [Telegram Group](https://t.me/AniTrack) - Quick support
-
-### 🚨 Security Issues
-
-Found a security vulnerability? Please **DO NOT** open a public issue. Instead:
-- 📧 Email: security@AniTrack.dev
-- 🔐 Use our [security policy](.github/SECURITY.md)
-- 🏆 Eligible for recognition in our Hall of Fame
 
 ---
 
