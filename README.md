@@ -84,10 +84,12 @@
 
 ## 🎬 Demo
 
-![AniTrack Demo](https://via.placeholder.com/800x400/11161d/fafafa?text=AniTrack+Demo)
+| Current Season | Upcoming Episodes |
+| :------------: | :---------------: |
+| [![AniTrack Demo](https://i.ibb.co/Mk2qT7st/file-148.jpg)](https://shineii86.github.io/AniTrack) | [![AniTrack Demo](https://i.ibb.co/Fk57Wycn/file-149.jpg)](https://shineii86.github.io/AniTrack) |
 
 ### 🌐 Live Demo
-> **Coming Soon**: Live demo will be available at [AniTrack-demo.netlify.app](https://AniTrack-demo.netlify.app)
+> **Coming Soon**: Live demo will be available at [Shineii86/AniTrack](https://shineii86.github.io/AniTrack)
 
 ### 📸 Screenshots
 - <s> **Desktop View**: Clean grid layout with anime cards </s>
